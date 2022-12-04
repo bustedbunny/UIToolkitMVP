@@ -1,0 +1,7 @@
+namespace UIToolkitMVP.ViewGeneration
+{
+    [System.AttributeUsage(System.AttributeTargets.Field | System.AttributeTargets.Property)]
+    public sealed class GenerateViewAttribute : System.Attribute
+    {
+    }
+}

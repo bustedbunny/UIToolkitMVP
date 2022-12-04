@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIToolkitMVP", "UIToolkitMVP\UIToolkitMVP.csproj", "{A5B4CBCA-95BC-4D67-94B6-BD1776CBB295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorTests", "GeneratorTests\GeneratorTests.csproj", "{9AFA2655-2619-4AA6-8E18-1979D8FA9BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B4CBCA-95BC-4D67-94B6-BD1776CBB295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B4CBCA-95BC-4D67-94B6-BD1776CBB295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B4CBCA-95BC-4D67-94B6-BD1776CBB295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B4CBCA-95BC-4D67-94B6-BD1776CBB295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AFA2655-2619-4AA6-8E18-1979D8FA9BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFA2655-2619-4AA6-8E18-1979D8FA9BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFA2655-2619-4AA6-8E18-1979D8FA9BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFA2655-2619-4AA6-8E18-1979D8FA9BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
